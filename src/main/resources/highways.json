@@ -1,0 +1,1697 @@
+[
+    {
+        "name": "+X Highway",
+        "state": "paved",
+        "from": [0, 0],
+        "to": [3750000, 0]
+    },
+    {
+        "name": "+X Highway",
+        "state": "dug_wide",
+        "from": [3750000, 0],
+        "to": [30000000, 0]
+    },
+    {
+        "name": "-X Highway",
+        "state": "paved",
+        "from": [0, 0],
+        "to": [-1000000, 0]
+    },
+    {
+        "name": "-X Highway",
+        "state": "dug_wide",
+        "from": [-1000000, 0],
+        "to": [-30000000, 0]
+    },
+    {
+        "name": "+Z Highway",
+        "state": "paved",
+        "from": [0, 0],
+        "to": [0, 1000000]
+    },
+    {
+        "name": "+Z Highway",
+        "state": "dug_wide",
+        "from": [0, 1000000],
+        "to": [0, 30000000]
+    },
+    {
+        "name": "-Z Highway",
+        "state": "paved",
+        "from": [0, 0],
+        "to": [0, -1000000]
+    },
+    {
+        "name": "-Z Highway",
+        "state": "dug_wide",
+        "from": [0, -1000000],
+        "to": [0, -30000000]
+    },
+
+
+
+    {
+        "name": "+X +Z Diagonal",
+        "state": "paved",
+        "from": [0, 0],
+        "to": [1000000, 1000000]
+    },
+    {
+        "name": "+X +Z Diagonal",
+        "state": "dug_wide",
+        "from": [1000000, 1000000],
+        "to": [30000000, 30000000]
+    },
+
+
+    {
+        "name": "-X +Z Diagonal",
+        "state": "paved",
+        "from": [0, 0],
+        "to": [-1000000, 1000000]
+    },
+    {
+        "name": "-X +Z Diagonal",
+        "state": "dug_wide",
+        "from": [-1000000, 1000000],
+        "to": [-30000000, 30000000]
+
+    },
+    {
+        "name": "-X -Z Diagonal",
+        "state": "dug_wide",
+        "from": [-3750000, -3750000],
+        "to": [-30000000, -30000000]
+    },
+
+
+    {
+        "name": "+X -Z Diagonal",
+        "state": "paved",
+        "from": [0, 0],
+        "to": [1000000, -1000000]
+    },
+    
+    {
+        "name": "+X -Z Diagonal",
+        "state": "dug_wide",
+        "from": [1000000, -1000000],
+        "to": [30000000, -30000000]
+        
+    },
+
+    {
+        "name": "-X -Z Diagonal",
+        "state": "paved",
+        "from": [0, 0],
+        "to": [-1000000, -1000000]
+    },
+    {
+        "name": "-X -Z Diagonal",
+        "state": "dug_wide",
+        "from": [-1000000, -1000000],
+        "to": [-3750000, -3750000]
+    },
+
+
+
+
+    {
+        "name": "5k Ring Road Leg 1",
+        "from": [0, 5000],
+        "to": [5000, 5000]
+    },
+    {
+        "name": "5k Ring Road Leg 2",
+        "from": [5000, 5000],
+        "to": [5000, 0]
+    },
+    {
+        "name": "5k Ring Road Leg 3",
+        "from": [5000, 0],
+        "to": [5000, -5000]
+    },
+    {
+        "name": "5k Ring Road Leg 4",
+        "from": [5000, -5000],
+        "to": [0, -5000]
+    },
+    {
+        "name": "5k Ring Road Leg 5",
+        "from": [0, -5000],
+        "to": [-5000, -5000]
+    },
+    {
+        "name": "5k Ring Road Leg 6",
+        "from": [-5000, -5000],
+        "to": [-5000, 0]
+    },
+    {
+        "name": "5k Ring Road Leg 7",
+        "from": [-5000, 0],
+        "to": [-5000, 5000]
+    },
+    {
+        "name": "5k Ring Road Leg 8",
+        "from": [-5000, 5000],
+        "to": [0, 5000]
+    },
+    {
+        "name": "10k Ring Road Leg 1",
+        "from": [0, 10000],
+        "to": [10000, 10000]
+    },
+    {
+        "name": "10k Ring Road Leg 2",
+        "from": [10000, 10000],
+        "to": [10000, 0]
+    },
+    {
+        "name": "10k Ring Road Leg 3",
+        "from": [10000, 0],
+        "to": [10000, -10000]
+    },
+    {
+        "name": "10k Ring Road Leg 4",
+        "from": [10000, -10000],
+        "to": [0, -10000]
+    },
+    {
+        "name": "10k Ring Road Leg 5",
+        "from": [0, -10000],
+        "to": [-10000, -10000]
+    },
+    {
+        "name": "10k Ring Road Leg 6",
+        "from": [-10000, -10000],
+        "to": [-10000, 0]
+    },
+    {
+        "name": "10k Ring Road Leg 7",
+        "from": [-10000, 0],
+        "to": [-10000, 10000]
+    },
+    {
+        "name": "10k Ring Road Leg 8",
+        "from": [-10000, 10000],
+        "to": [0, 10000]
+    },
+    {
+        "name": "15k Ring Road Leg 1",
+        "from": [0, 15000],
+        "to": [15000, 15000]
+    },
+    {
+        "name": "15k Ring Road Leg 2",
+        "from": [15000, 15000],
+        "to": [15000, 0]
+    },
+    {
+        "name": "15k Ring Road Leg 3",
+        "from": [15000, 0],
+        "to": [15000, -15000]
+    },
+    {
+        "name": "15k Ring Road Leg 4",
+        "from": [15000, -15000],
+        "to": [0, -15000]
+    },
+    {
+        "name": "15k Ring Road Leg 5",
+        "from": [0, -15000],
+        "to": [-15000, -15000]
+    },
+    {
+        "name": "15k Ring Road Leg 6",
+        "from": [-15000, -15000],
+        "to": [-15000, 0]
+    },
+    {
+        "name": "15k Ring Road Leg 7",
+        "from": [-15000, 0],
+        "to": [-15000, 15000]
+    },
+    {
+        "name": "15k Ring Road Leg 8",
+        "from": [-15000, 15000],
+        "to": [0, 15000]
+    },
+    {
+        "name": "20k Ring Road Leg 1",
+        "from": [0, 20000],
+        "to": [20000, 20000]
+    },
+    {
+        "name": "20k Ring Road Leg 2",
+        "from": [20000, 20000],
+        "to": [20000, 0]
+    },
+    {
+        "name": "20k Ring Road Leg 3",
+        "from": [20000, 0],
+        "to": [20000, -20000]
+    },
+    {
+        "name": "20k Ring Road Leg 4",
+        "from": [20000, -20000],
+        "to": [0, -20000]
+    },
+    {
+        "name": "20k Ring Road Leg 5",
+        "from": [0, -20000],
+        "to": [-20000, -20000]
+    },
+    {
+        "name": "20k Ring Road Leg 6",
+        "from": [-20000, -20000],
+        "to": [-20000, 0]
+    },
+    {
+        "name": "20k Ring Road Leg 7",
+        "from": [-20000, 0],
+        "to": [-20000, 20000]
+    },
+    {
+        "name": "20k Ring Road Leg 8",
+        "from": [-20000, 20000],
+        "to": [0, 20000]
+    },
+    {
+        "name": "25k Ring Road Leg 1",
+        "from": [0, 25000],
+        "to": [25000, 25000]
+    },
+    {
+        "name": "25k Ring Road Leg 2",
+        "from": [25000, 25000],
+        "to": [25000, 0]
+    },
+    {
+        "name": "25k Ring Road Leg 3",
+        "from": [25000, 0],
+        "to": [25000, -25000]
+    },
+    {
+        "name": "25k Ring Road Leg 4",
+        "from": [25000, -25000],
+        "to": [0, -25000]
+    },
+    {
+        "name": "25k Ring Road Leg 5",
+        "from": [0, -25000],
+        "to": [-25000, -25000]
+    },
+    {
+        "name": "25k Ring Road Leg 6",
+        "from": [-25000, -25000],
+        "to": [-25000, 0]
+    },
+    {
+        "name": "25k Ring Road Leg 7",
+        "from": [-25000, 0],
+        "to": [-25000, 25000]
+    },
+    {
+        "name": "25k Ring Road Leg 8",
+        "from": [-25000, 25000],
+        "to": [0, 25000]
+    },
+    {
+        "name": "30k Ring Road Leg 1",
+        "from": [0, 30000],
+        "to": [30000, 30000]
+    },
+    {
+        "name": "30k Ring Road Leg 2",
+        "from": [30000, 30000],
+        "to": [30000, 0]
+    },
+    {
+        "name": "30k Ring Road Leg 3",
+        "from": [30000, 0],
+        "to": [30000, -30000]
+    },
+    {
+        "name": "30k Ring Road Leg 4",
+        "from": [30000, -30000],
+        "to": [0, -30000]
+    },
+    {
+        "name": "30k Ring Road Leg 5",
+        "from": [0, -30000],
+        "to": [-30000, -30000]
+    },
+    {
+        "name": "30k Ring Road Leg 6",
+        "from": [-30000, -30000],
+        "to": [-30000, 0]
+    },
+    {
+        "name": "30k Ring Road Leg 7",
+        "from": [-30000, 0],
+        "to": [-30000, 30000]
+    },
+    {
+        "name": "30k Ring Road Leg 8",
+        "from": [-30000, 30000],
+        "to": [0, 30000]
+    } ,
+    {
+        "name": "35k Ring Road Leg 1",
+        "from": [0, 35000],
+        "to": [35000, 35000]
+    },
+    {
+        "name": "35k Ring Road Leg 2",
+        "from": [35000, 35000],
+        "to": [35000, 0]
+    },
+    {
+        "name": "35k Ring Road Leg 3",
+        "from": [35000, 0],
+        "to": [35000, -35000]
+    },
+    {
+        "name": "35k Ring Road Leg 4",
+        "from": [35000, -35000],
+        "to": [0, -35000]
+    },
+    {
+        "name": "35k Ring Road Leg 5",
+        "from": [0, -35000],
+        "to": [-35000, -35000]
+    },
+    {
+        "name": "35k Ring Road Leg 6",
+        "from": [-35000, -35000],
+        "to": [-35000, 0]
+    },
+    {
+        "name": "35k Ring Road Leg 7",
+        "from": [-35000, 0],
+        "to": [-35000, 35000]
+    },
+    {
+        "name": "35k Ring Road Leg 8",
+        "from": [-35000, 35000],
+        "to": [0, 35000]
+    },
+    {
+        "name": "40k Ring Road Leg 1",
+        "from": [0, 40000],
+        "to": [40000, 40000]
+    },
+    {
+        "name": "40k Ring Road Leg 2",
+        "from": [40000, 40000],
+        "to": [40000, 0]
+    },
+    {
+        "name": "40k Ring Road Leg 3",
+        "from": [40000, 0],
+        "to": [40000, -40000]
+    },
+    {
+        "name": "40k Ring Road Leg 4",
+        "from": [40000, -40000],
+        "to": [0, -40000]
+    },
+    {
+        "name": "40k Ring Road Leg 5",
+        "from": [0, -40000],
+        "to": [-40000, -40000]
+    },
+    {
+        "name": "40k Ring Road Leg 6",
+        "from": [-40000, -40000],
+        "to": [-40000, 0]
+    },
+    {
+        "name": "40k Ring Road Leg 7",
+        "from": [-40000, 0],
+        "to": [-40000, 40000]
+    },
+    {
+        "name": "40k Ring Road Leg 8",
+        "from": [-40000, 40000],
+        "to": [0, 40000]
+    },
+    {
+        "name": "45k Ring Road Leg 1",
+        "from": [0, 45000],
+        "to": [45000, 45000]
+    },
+    {
+        "name": "45k Ring Road Leg 2",
+        "from": [45000, 45000],
+        "to": [45000, 0]
+    },
+    {
+        "name": "45k Ring Road Leg 3",
+        "from": [45000, 0],
+        "to": [45000, -45000]
+    },
+    {
+        "name": "45k Ring Road Leg 4",
+        "from": [45000, -45000],
+        "to": [0, -45000]
+    },
+    {
+        "name": "45k Ring Road Leg 5",
+        "from": [0, -45000],
+        "to": [-45000, -45000]
+    },
+    {
+        "name": "45k Ring Road Leg 6",
+        "from": [-45000, -45000],
+        "to": [-45000, 0]
+    },
+    {
+        "name": "45k Ring Road Leg 7",
+        "from": [-45000, 0],
+        "to": [-45000, 45000]
+    },
+    {
+        "name": "45k Ring Road Leg 8",
+        "from": [-45000, 45000],
+        "to": [0, 45000]
+    },
+    {
+        "name": "50k Ring Road Leg 1",
+        "from": [0, 50000],
+        "to": [50000, 50000]
+    },
+    {
+        "name": "50k Ring Road Leg 2",
+        "from": [50000, 50000],
+        "to": [50000, 0]
+    },
+    {
+        "name": "50k Ring Road Leg 3",
+        "from": [50000, 0],
+        "to": [50000, -50000]
+    },
+    {
+        "name": "50k Ring Road Leg 4",
+        "from": [50000, -50000],
+        "to": [0, -50000]
+    },
+    {
+        "name": "50k Ring Road Leg 5",
+        "from": [0, -50000],
+        "to": [-50000, -50000]
+    },
+    {
+        "name": "50k Ring Road Leg 6",
+        "from": [-50000, -50000],
+        "to": [-50000, 0]
+    },
+    {
+        "name": "50k Ring Road Leg 7",
+        "from": [-50000, 0],
+        "to": [-50000, 50000]
+    },
+    {
+        "name": "50k Ring Road Leg 8",
+        "from": [-50000, 50000],
+        "to": [0, 50000]
+    },
+    {
+        "name": "62.5k Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 62500],
+        "to": [62500, 62500]
+    },
+    {
+        "name": "62.5k Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [62500, 62500],
+        "to": [62500, 0]
+    },
+    {
+        "name": "62.5k Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [62500, 0],
+        "to": [62500, -62500]
+    },
+    {
+        "name": "62.5k Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [62500, -62500],
+        "to": [0, -62500]
+    },
+    {
+        "name": "62.5k Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -62500],
+        "to": [-62500, -62500]
+    },
+    {
+        "name": "62.5k Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-62500, -62500],
+        "to": [-62500, 0]
+    },
+    {
+        "name": "62.5k Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-62500, 0],
+        "to": [-62500, 62500]
+    },
+    {
+        "name": "62.5k Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-62500, 62500],
+        "to": [0, 62500]
+    },
+    {
+        "name": "75k Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 75000],
+        "to": [75000, 75000]
+    },
+    {
+        "name": "75k Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [75000, 75000],
+        "to": [75000, 0]
+    },
+    {
+        "name": "75k Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [75000, 0],
+        "to": [75000, -75000]
+    },
+    {
+        "name": "75k Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [75000, -75000],
+        "to": [0, -75000]
+    },
+    {
+        "name": "75k Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -75000],
+        "to": [-75000, -75000]
+    },
+    {
+        "name": "75k Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-75000, -75000],
+        "to": [-75000, 0]
+    },
+    {
+        "name": "75k Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-75000, 0],
+        "to": [-75000, 75000]
+    },
+    {
+        "name": "75k Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-75000, 75000],
+        "to": [0, 75000]
+    },
+    {
+        "name": "100k Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 100000],
+        "to": [100000, 100000]
+    },
+    {
+        "name": "100k Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [100000, 100000],
+        "to": [100000, 0]
+    },
+    {
+        "name": "100k Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [100000, 0],
+        "to": [100000, -100000]
+    },
+    {
+        "name": "100k Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [100000, -100000],
+        "to": [0, -100000]
+    },
+    {
+        "name": "100k Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -100000],
+        "to": [-100000, -100000]
+    },
+    {
+        "name": "100k Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-100000, -100000],
+        "to": [-100000, 0]
+    },
+    {
+        "name": "100k Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-100000, 0],
+        "to": [-100000, 100000]
+    },
+    {
+        "name": "100k Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-100000, 100000],
+        "to": [0, 100000]
+    },
+    {
+        "name": "125k Ring Road Leg 1",
+        "from": [0, 125000],
+        "to": [125000, 125000]
+    },
+    {
+        "name": "125k Ring Road Leg 2",
+        "from": [125000, 125000],
+        "to": [125000, 0]
+    },
+    {
+        "name": "125k Ring Road Leg 3",
+        "from": [125000, 0],
+        "to": [125000, -125000]
+    },
+    {
+        "name": "125k Ring Road Leg 4",
+        "from": [125000, -125000],
+        "to": [0, -125000]
+    },
+    {
+        "name": "125k Ring Road Leg 5",
+        "from": [0, -125000],
+        "to": [-125000, -125000]
+    },
+    {
+        "name": "125k Ring Road Leg 6",
+        "from": [-125000, -125000],
+        "to": [-125000, 0]
+    },
+    {
+        "name": "125k Ring Road Leg 7",
+        "from": [-125000, 0],
+        "to": [-125000, 125000]
+    },
+    {
+        "name": "125k Ring Road Leg 8",
+        "from": [-125000, 125000],
+        "to": [0, 125000]
+    },
+    {
+        "name": "250k Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 250000],
+        "to": [250000, 250000]
+    },
+    {
+        "name": "250k Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [250000, 250000],
+        "to": [250000, 0]
+    },
+    {
+        "name": "250k Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [250000, 0],
+        "to": [250000, -250000]
+    },
+    {
+        "name": "250k Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [250000, -250000],
+        "to": [0, -250000]
+    },
+    {
+        "name": "250k Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -250000],
+        "to": [-250000, -250000]
+    },
+    {
+        "name": "250k Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-250000, -250000],
+        "to": [-250000, 0]
+    },
+    {
+        "name": "250k Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-250000, 0],
+        "to": [-250000, 250000]
+    },
+    {
+        "name": "250k Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-250000, 250000],
+        "to": [0, 250000]
+    },
+    {
+        "name": "500k Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 500000],
+        "to": [500000, 500000]
+    },
+    {
+        "name": "500k Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [500000, 500000],
+        "to": [500000, 0]
+    },
+    {
+        "name": "500k Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [500000, 0],
+        "to": [500000, -500000]
+    },
+    {
+        "name": "500k Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [500000, -500000],
+        "to": [0, -500000]
+    },
+    {
+        "name": "500k Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -500000],
+        "to": [-500000, -500000]
+    },
+    {
+        "name": "500k Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-500000, -500000],
+        "to": [-500000, 0]
+    },
+    {
+        "name": "500k Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-500000, 0],
+        "to": [-500000, 500000]
+    },
+    {
+        "name": "500k Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-500000, 500000],
+        "to": [0, 500000]
+    },
+    {
+        "name": "750k Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 750000],
+        "to": [750000, 750000]
+    },
+    {
+        "name": "750k Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [750000, 750000],
+        "to": [750000, 0]
+    },
+    {
+        "name": "750k Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [750000, 0],
+        "to": [750000, -750000]
+    },
+    {
+        "name": "750k Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [750000, -750000],
+        "to": [0, -750000]
+    },
+    {
+        "name": "750k Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -750000],
+        "to": [-750000, -750000]
+    },
+    {
+        "name": "750k Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-750000, -750000],
+        "to": [-750000, 0]
+    },
+    {
+        "name": "750k Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-750000, 0],
+        "to": [-750000, 750000]
+    },
+    {
+        "name": "750k Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-750000, 750000],
+        "to": [0, 750000]
+    },
+    {
+        "name": "1m Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 1000000],
+        "to": [1000000, 1000000]
+    },
+    {
+        "name": "1m Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [1000000, 1000000],
+        "to": [1000000, 0]
+    },
+    {
+        "name": "1m Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [1000000, 0],
+        "to": [1000000, -1000000]
+    },
+    {
+        "name": "1m Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [1000000, -1000000],
+        "to": [0, -1000000]
+    },
+    {
+        "name": "1m Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -1000000],
+        "to": [-1000000, -1000000]
+    },
+    {
+        "name": "1m Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-1000000, -1000000],
+        "to": [-1000000, 0]
+    },
+    {
+        "name": "1m Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-1000000, 0],
+        "to": [-1000000, 1000000]
+    },
+    {
+        "name": "1m Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-1000000, 1000000],
+        "to": [0, 1000000]
+    },
+    {
+        "name": "1.25m Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 1250000],
+        "to": [1250000, 1250000]
+    },
+    {
+        "name": "1.25m Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [1250000, 1250000],
+        "to": [1250000, 0]
+    },
+    {
+        "name": "1.25m  Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [1250000, 0],
+        "to": [1250000, -1250000]
+    },
+    {
+        "name": "1.25m Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [1250000, -1250000],
+        "to": [0, -1250000]
+    },
+    {
+        "name": "1.25m Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -1250000],
+        "to": [-1250000, -1250000]
+    },
+    {
+        "name": "1.25m Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-1250000, -1250000],
+        "to": [-1250000, 0]
+    },
+    {
+        "name": "1.25m Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-1250000, 0],
+        "to": [-1250000, 1250000]
+    },
+    {
+        "name": "1.25m Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-1250000, 1250000],
+        "to": [0, 1250000]
+    },
+    {
+        "name": "FarLands Ring Road Leg 1",
+        "state": "dug_narrow",
+        "from": [0, 1568852],
+        "to": [1568852, 1568852]
+    },
+    {
+        "name": "FarLands Ring Road Leg 2",
+        "state": "dug_narrow",
+        "from": [1568852, 1568852],
+        "to": [1568852, 0]
+    },
+    {
+        "name": "FarLands Ring Road Leg 3",
+        "state": "dug_narrow",
+        "from": [1568852, 0],
+        "to": [1568852, -1568852]
+    },
+    {
+        "name": "FarLands Ring Road Leg 4",
+        "state": "dug_narrow",
+        "from": [1568852, -1568852],
+        "to": [0, -1568852]
+    },
+    {
+        "name": "FarLands Ring Road Leg 5",
+        "state": "dug_narrow",
+        "from": [0, -1568852],
+        "to": [-1568852, -1568852]
+    },
+    {
+        "name": "FarLands Ring Road Leg 6",
+        "state": "dug_narrow",
+        "from": [-1568852, -1568852],
+        "to": [-1568852, 0]
+    },
+    {
+        "name": "FarLands Ring Road Leg 7",
+        "state": "dug_narrow",
+        "from": [-1568852, 0],
+        "to": [-1568852, 1568852]
+    },
+    {
+        "name": "FarLands Ring Road Leg 8",
+        "state": "dug_narrow",
+        "from": [-1568852, 1568852],
+        "to": [0, 1568852]
+    },
+    {
+        "name": "1.875m Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 1875000],
+        "to": [1875000, 1875000]
+    },
+    {
+        "name": "1.875m Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [1875000, 1875000],
+        "to": [1875000, 0]
+    },
+    {
+        "name": "1.875m  Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [1875000, 0],
+        "to": [1875000, -1875000]
+    },
+    {
+        "name": "1.875m Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [1875000, -1875000],
+        "to": [0, -1875000]
+    },
+    {
+        "name": "1.875m Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -1875000],
+        "to": [-1875000, -1875000]
+    },
+    {
+        "name": "1.875m Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-1875000, -1875000],
+        "to": [-1875000, 0]
+    },
+    {
+        "name": "1.875m Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-1875000, 0],
+        "to": [-1875000, 1875000]
+    },
+    {
+        "name": "1.875m Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-1875000, 1875000],
+        "to": [0, 1875000]
+    },
+    {
+        "name": "2.5m Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 2500000],
+        "to": [2500000, 2500000]
+    },
+    {
+        "name": "2.5m Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [2500000, 2500000],
+        "to": [2500000, 0]
+    },
+    {
+        "name": "2.5m  Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [2500000, 0],
+        "to": [2500000, -2500000]
+    },
+    {
+        "name": "2.5m Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [2500000, -2500000],
+        "to": [0, -2500000]
+    },
+    {
+        "name": "2.5m Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -2500000],
+        "to": [-2500000, -2500000]
+    },
+    {
+        "name": "2.5m Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-2500000, -2500000],
+        "to": [-2500000, 0]
+    },
+    {
+        "name": "2.5m Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-2500000, 0],
+        "to": [-2500000, 2500000]
+    },
+    {
+        "name": "2.5m Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-2500000, 2500000],
+        "to": [0, 2500000]
+    },
+
+
+    {
+        "name": "3.75m Ring Road Leg 1",
+        "state": "dug_wide",
+        "from": [0, 3750000],
+        "to": [3750000, 3750000]
+    },
+    {
+        "name": "3.75m Ring Road Leg 2",
+        "state": "dug_wide",
+        "from": [3750000, 3750000],
+        "to": [3750000, 0]
+    },
+    {
+        "name": "3.75m Ring Road Leg 3",
+        "state": "dug_wide",
+        "from": [3750000, 0],
+        "to": [3750000, -3750000]
+    },
+    {
+        "name": "3.75m Ring Road Leg 4",
+        "state": "dug_wide",
+        "from": [3750000, -3750000],
+        "to": [0, -3750000]
+    },
+    {
+        "name": "3.75m Ring Road Leg 5",
+        "state": "dug_wide",
+        "from": [0, -3750000],
+        "to": [-3750000, -3750000]
+    },
+    {
+        "name": "3.75m Ring Road Leg 6",
+        "state": "dug_wide",
+        "from": [-3750000, -3750000],
+        "to": [-3750000, 0]
+    },
+    {
+        "name": "3.75m Ring Road Leg 7",
+        "state": "dug_wide",
+        "from": [-3750000, 0],
+        "to": [-3750000, 3750000]
+    },
+    {
+        "name": "3.75m Ring Road Leg 8",
+        "state": "dug_wide",
+        "from": [-3750000, 3750000],
+        "to": [0, 3750000]
+    },
+
+
+
+
+
+    
+    
+ 
+    {
+        "name": "+Z 5k Grid Road",
+        "from": [5000, 5000],
+        "to": [5000, 50000]
+    },
+    {
+        "name": "+Z 10k Grid Road",
+        "from": [10000, 10000],
+        "to": [10000, 50000]
+    },
+    {
+        "name": "+Z 15k Grid Road",
+        "from": [15000, 15000],
+        "to": [15000, 50000]
+    },
+    {
+        "name": "+Z 20k Grid Road",
+        "from": [20000, 20000],
+        "to": [20000, 50000]
+    },
+    {
+        "name": "+Z 25k Grid Road",
+        "from": [25000, 25000],
+        "to": [25000, 50000]
+    },
+    {
+        "name": "+Z 30k Grid Road",
+        "from": [30000, 30000],
+        "to": [30000, 50000]
+    },
+    {
+        "name": "+Z 35k Grid Road",
+        "from": [35000, 35000],
+        "to": [35000, 50000]
+    },
+    {
+        "name": "+Z 40k Grid Road",
+        "from": [40000, 40000],
+        "to": [40000, 50000]
+    },
+    {
+        "name": "+Z 45k Grid Road",
+        "from": [45000, 45000],
+        "to": [45000, 50000]
+    },
+
+    {
+        "name": "+Z -5k Grid Road",
+        "from": [-5000, 5000],
+        "to": [-5000, 50000]
+    },
+    {
+        "name": "+Z -10k Grid Road",
+        "from": [-10000, 10000],
+        "to": [-10000, 50000]
+    },
+    {
+        "name": "+Z -15k Grid Road",
+        "from": [-15000, 15000],
+        "to": [-15000, 50000]
+    },
+    {
+        "name": "+Z -20k Grid Road",
+        "from": [-20000, 20000],
+        "to": [-20000, 50000]
+    },
+    {
+        "name": "+Z -25k Grid Road",
+        "from": [-25000, 25000],
+        "to": [-25000, 50000]
+    },
+    {
+        "name": "+Z -30k Grid Road",
+        "from": [-30000, 30000],
+        "to": [-30000, 50000]
+    },
+    {
+        "name": "+Z -35k Grid Road",
+        "from": [-35000, 35000],
+        "to": [-35000, 50000]
+    },
+    {
+        "name": "+Z -40k Grid Road",
+        "from": [-40000, 40000],
+        "to": [-40000, 50000]
+    },
+    {
+        "name": "+Z -45k Grid Road",
+        "from": [-45000, 45000],
+        "to": [-45000, 50000]
+    },
+    
+    {
+        "name": "+X 5k Grid Road",
+        "from": [5000, 5000],
+        "to": [50000, 5000]
+    },
+    {
+        "name": "+X 10k Grid Road",
+        "from": [10000, 10000],
+        "to": [50000, 10000]
+    },
+    {
+        "name": "+X 15k Grid Road",
+        "from": [15000, 15000],
+        "to": [50000, 15000]
+    },
+    {
+        "name": "+X 20k Grid Road",
+        "from": [20000, 20000],
+        "to": [50000, 20000]
+    },
+    {
+        "name": "+X 25k Grid Road",
+        "from": [25000, 25000],
+        "to": [50000, 25000]
+    },
+    {
+        "name": "+X 30k Grid Road",
+        "from": [30000, 30000],
+        "to": [50000, 30000]
+    },
+    {
+        "name": "+X 35k Grid Road",
+        "from": [35000, 35000],
+        "to": [50000, 35000]
+    },
+    {
+        "name": "+X 40k Grid Road",
+        "from": [40000, 40000],
+        "to": [50000, 40000]
+    },
+    {
+        "name": "+X 45k Grid Road",
+        "from": [45000, 45000],
+        "to": [50000, 45000]
+    },
+    
+    {
+        "name": "+X -5k Grid Road",
+        "from": [5000, -5000],
+        "to": [50000, -5000]
+    },
+    {
+        "name": "+X -10k Grid Road",
+        "from": [10000, -10000],
+        "to": [50000, -10000]
+    },
+    {
+        "name": "+X -15k Grid Road",
+        "from": [15000, -15000],
+        "to": [50000, -15000]
+    },
+    {
+        "name": "+X -20k Grid Road",
+        "from": [20000, -20000],
+        "to": [50000, -20000]
+    },
+    {
+        "name": "+X -25k Grid Road",
+        "from": [25000, -25000],
+        "to": [50000, -25000]
+    },
+    {
+        "name": "+X -30k Grid Road",
+        "from": [30000, -30000],
+        "to": [50000, -30000]
+    },
+    {
+        "name": "+X -35k Grid Road",
+        "from": [35000, -35000],
+        "to": [50000, -35000]
+    },
+    {
+        "name": "+X -40k Grid Road",
+        "from": [40000, -40000],
+        "to": [50000, -40000]
+    },
+    {
+        "name": "+X -45k Grid Road",
+        "from": [45000, -45000],
+        "to": [50000, -45000]
+    },
+    
+    {
+        "name": "-Z 5k Grid Road",
+        "from": [5000, -5000],
+        "to": [5000, -50000]
+    },
+    {
+        "name": "-Z 10k Grid Road",
+        "from": [10000, -10000],
+        "to": [10000, -50000]
+    },
+    {
+        "name": "-Z 15k Grid Road",
+        "from": [15000, -15000],
+        "to": [15000, -50000]
+    },
+    {
+        "name": "-Z 20k Grid Road",
+        "from": [20000, -20000],
+        "to": [20000, -50000]
+    },
+    {
+        "name": "-Z 25k Grid Road",
+        "from": [25000, -25000],
+        "to": [25000, -50000]
+    },
+    {
+        "name": "-Z 30k Grid Road",
+        "from": [30000, -30000],
+        "to": [30000, -50000]
+    },
+    {
+        "name": "-Z 35k Grid Road",
+        "from": [35000, -35000],
+        "to": [35000, -50000]
+    },
+    {
+        "name": "-Z 40k Grid Road",
+        "from": [40000, -40000],
+        "to": [40000, -50000]
+    },
+    {
+        "name": "-Z 45k Grid Road",
+        "from": [45000, -45000],
+        "to": [45000, -50000]
+    },
+    
+    {
+        "name": "-Z -5k Grid Road",
+        "from": [-5000, -5000],
+        "to": [-5000, -50000]
+    },
+    {
+        "name": "-Z -10k Grid Road",
+        "from": [-10000, -10000],
+        "to": [-10000, -50000]
+    },
+    {
+        "name": "-Z -15k Grid Road",
+        "from": [-15000, -15000],
+        "to": [-15000, -50000]
+    },
+    {
+        "name": "-Z -20k Grid Road",
+        "from": [-20000, -20000],
+        "to": [-20000, -50000]
+    },
+    {
+        "name": "-Z -25k Grid Road",
+        "from": [-25000, -25000],
+        "to": [-25000, -50000]
+    },
+    {
+        "name": "-Z -30k Grid Road",
+        "from": [-30000, -30000],
+        "to": [-30000, -50000]
+    },
+    {
+        "name": "-Z -35k Grid Road",
+        "from": [-35000, -35000],
+        "to": [-35000, -50000]
+    },
+    {
+        "name": "-Z -40k Grid Road",
+        "from": [-40000, -40000],
+        "to": [-40000, -50000]
+    },
+    {
+        "name": "-Z -45k Grid Road",
+        "from": [-45000, -45000],
+        "to": [-45000, -50000]
+    },
+    
+    {
+        "name": "-X -5k Grid Road",
+        "from": [-5000, -5000],
+        "to": [-50000, -5000]
+    },
+    {
+        "name": "-X -10k Grid Road",
+        "from": [-10000, -10000],
+        "to": [-50000, -10000]
+    },
+    {
+        "name": "-X -15k Grid Road",
+        "from": [-15000, -15000],
+        "to": [-50000, -15000]
+    },
+    {
+        "name": "-X -20k Grid Road",
+        "from": [-20000, -20000],
+        "to": [-50000, -20000]
+    },
+    {
+        "name": "-X -25k Grid Road",
+        "from": [-25000, -25000],
+        "to": [-50000, -25000]
+    },
+    {
+        "name": "-X -30k Grid Road",
+        "from": [-30000, -30000],
+        "to": [-50000, -30000]
+    },
+    {
+        "name": "-X -35k Grid Road",
+        "from": [-35000, -35000],
+        "to": [-50000, -35000]
+    },
+    {
+        "name": "-X -40k Grid Road",
+        "from": [-40000, -40000],
+        "to": [-50000, -40000]
+    },
+    {
+        "name": "-X -45k Grid Road",
+        "from": [-45000, -45000],
+        "to": [-50000, -45000]
+    },
+    
+    {
+        "name": "-X 5k Grid Road",
+        "from": [-5000, 5000],
+        "to": [-50000, 5000]
+    },
+    {
+        "name": "-X 10k Grid Road",
+        "from": [-10000, 10000],
+        "to": [-50000, 10000]
+    },
+    {
+        "name": "-X 15k Grid Road",
+        "from": [-15000, 15000],
+        "to": [-50000, 15000]
+    },
+    {
+        "name": "-X 20k Grid Road",
+        "from": [-20000, 20000],
+        "to": [-50000, 20000]
+    },
+    {
+        "name": "-X 25k Grid Road",
+        "from": [-25000, 25000],
+        "to": [-50000, 25000]
+    },
+    {
+        "name": "-X 30k Grid Road",
+        "from": [-30000, 30000],
+        "to": [-50000, 30000]
+    },
+    {
+        "name": "-X 35k Grid Road",
+        "from": [-35000, 35000],
+        "to": [-50000, 35000]
+    },
+    {
+        "name": "-X 40k Grid Road",
+        "from": [-40000, 40000],
+        "to": [-50000, 40000]
+    },
+    {
+        "name": "-X 45k Grid Road",
+        "from": [-45000, 45000],
+        "to": [-50000, 45000]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "5k Diamond Leg 1",
+        "state": "paved",
+        "from": [0, -5000],
+        "to": [5000, 0]
+    },
+    {
+        "name": "5k Diamond Leg 2",
+        "state": "paved",
+        "from": [5000, 0],
+        "to": [0, 5000]
+    },
+    {
+        "name": "5k Diamond Leg 3",
+        "state": "paved",
+        "from": [0, 5000],
+        "to": [-5000, 0]
+    },
+    {
+        "name": "5k Diamond Leg 4",
+        "state": "paved",
+        "from": [-5000, 0],
+        "to": [0, -5000]
+    },
+    {
+        "name": "25k Diamond Leg 1",
+        "state": "paved",
+        "from": [0, -25000],
+        "to": [25000, 0]
+    },
+    {
+        "name": "25k Diamond Leg 2",
+        "state": "paved",
+        "from": [25000, 0],
+        "to": [0, 25000]
+    },
+    {
+        "name": "25k Diamond Leg 3",
+        "state": "paved",
+        "from": [0, 25000],
+        "to": [-25000, 0]
+    },
+    {
+        "name": "25k Diamond Leg 4",
+        "state": "paved",
+        "from": [-25000, 0],
+        "to": [0, -25000]
+    },
+
+    {
+        "name": "50k Diamond Leg 1",
+        "state": "paved",
+        "from": [0, -50000],
+        "to": [50000, 0]
+    },
+    {
+        "name": "50k Diamond Leg 2",
+        "state": "paved",
+        "from": [50000, 0],
+        "to": [0, 50000]
+    },
+    {
+        "name": "50k Diamond Leg 3",
+        "state": "paved",
+        "from": [0, 50000],
+        "to": [-50000, 0]
+    },
+    {
+        "name": "50k Diamond Leg 4",
+        "state": "paved",
+        "from": [-50000, 0],
+        "to": [0, -50000]
+    },
+    {
+        "name": "125k Diamond Leg 1",
+        "state": "dug_wide",
+        "from": [0, -125000],
+        "to": [125000, 0]
+    },
+    {
+        "name": "125k Diamond Leg 2",
+        "state": "dug_wide",
+        "from": [125000, 0],
+        "to": [0, 125000]
+    },
+    {
+        "name": "125k Diamond Leg 3",
+        "state": "dug_wide",
+        "from": [0, 125000],
+        "to": [-125000, 0]
+    },
+    {
+        "name": "125k Diamond Leg 4",
+        "state": "dug_wide",
+        "from": [-125000, 0],
+        "to": [0, -125000]
+    },
+    {
+        "name": "250k Diamond Leg 1",
+        "state": "dug_wide",
+        "from": [0, -250000],
+        "to": [250000, 0]
+    },
+    {
+        "name": "250k Diamond Leg 2",
+        "state": "dug_wide",
+        "from": [250000, 0],
+        "to": [0, 250000]
+    },
+    {
+        "name": "250k Diamond Leg 3",
+        "state": "dug_wide",
+        "from": [0, 250000],
+        "to": [-250000, 0]
+    },
+    {
+        "name": "250k Diamond Leg 4",
+        "state": "dug_wide",
+        "from": [-250000, 0],
+        "to": [0, -250000]
+    },
+    {
+        "name": "500k Diamond Leg 1",
+        "state": "dug_wide",
+        "from": [0, -500000],
+        "to": [500000, 0]
+    },
+    {
+        "name": "500k Diamond Leg 2",
+        "state": "dug_wide",
+        "from": [500000, 0],
+        "to": [0, 500000]
+    },
+    {
+        "name": "500k Diamond Leg 3",
+        "state": "dug_wide",
+        "from": [0, 500000],
+        "to": [-500000, 0]
+    },
+    {
+        "name": "500k Diamond Leg 4",
+        "state": "dug_wide",
+        "from": [-500000, 0],
+        "to": [0, -500000]
+    },
+    {
+        "name": "3.75m Diamond Leg 1",
+        "state": "dug_wide",
+        "from": [0, -3750000],
+        "to": [3750000, 0]
+    },
+    {
+        "name": "3.75m Diamond Leg 2",
+        "state": "dug_wide",
+        "from": [3750000, 0],
+        "to": [0, 3750000]
+    },
+    {
+        "name": "3.75m Diamond Leg 3",
+        "state": "dug_wide",
+        "from": [0, 3750000],
+        "to": [-3750000, 0]
+    },
+    {
+        "name": "3.75m Diamond Leg 4",
+        "state": "dug_wide",
+        "from": [-3750000, 0],
+        "to": [0, -3750000]
+    }
+]
